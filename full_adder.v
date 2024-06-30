@@ -4,7 +4,7 @@
 // Engineer: 
 // 
 // Create Date: 01.07.2024 02:11:19
-// Design Name: 
+// Design Name: krishna
 // Module Name: full_adder
 // Project Name: 
 // Target Devices: 
