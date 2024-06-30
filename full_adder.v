@@ -26,8 +26,8 @@ output s,cout
     );
 wire w1,w2,w3;
 assign w1=a^b;
-assign s=w1^cin;
+assign s=w1^cin; /*s=sum and cin = carry in*/
 assign w2=a&b;
 assign w3= w1&cin;
-assign cout=w2 | w3;
+assign cout=w2 | w3; /* carry out*/
 endmodule
